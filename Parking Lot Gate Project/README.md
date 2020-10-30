@@ -6,7 +6,7 @@
 
 
 ## Components:
-  - SG90 SERVO MOTOR
+  - SG90 Servo Motor
   - 2x 220 Ohm Resistor 
   - 2 Leds (Red and Green)
   - Infrared Reciver(VS1838)
