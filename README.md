@@ -2,7 +2,7 @@
 <p align="center">
   <strong align="center">Little Arduino Projects</strong>
 </p>
-  <img src="https://imgur.com/U4ijdeq" float="center"/>
+  <img src="https://github.com/lucasbivar/little-arduino-projects/blob/main/readme%20images/ardugif.gif" float="center"/>
 </h1> 
 
 ## Description:
