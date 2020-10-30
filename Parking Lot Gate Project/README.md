@@ -1,4 +1,4 @@
-# Parking Lot Project
+# Parking Lot Gate Project
 
 <h1 align="center">
   <img src="https://github.com/lucasbivar/little-arduino-projects/blob/main/Parking%20Lot%20Gate%20Project/project.gif" float="center"/>
