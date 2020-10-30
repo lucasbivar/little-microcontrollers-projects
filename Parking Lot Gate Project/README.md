@@ -1,7 +1,7 @@
 # Parking Lot Project
 
 <h1 align="center">
-  <img src="https://github.com/lucasbivar/little-arduino-projects/blob/main/Parking%20Lot%20Gate%20Project/project.gif" width="216" height="444" float="center"/>
+  <img src="https://github.com/lucasbivar/little-arduino-projects/blob/main/Parking%20Lot%20Gate%20Project/project.gif" float="center"/>
 </h1> 
 
 
