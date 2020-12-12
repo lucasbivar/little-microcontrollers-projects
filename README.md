@@ -1,12 +1,24 @@
-<h1 align="center">
-<p align="center">
-  <strong align="center">Little Arduino Projects</strong>
-</p>
-  <img src="https://github.com/lucasbivar/little-arduino-projects/blob/main/readme%20images/ardugif.gif" float="center"/>
-</h1> 
+<img align="center" src="https://i.imgur.com/KaanTgw.gif">
+<h4 align="center">👨‍💻 Little Arduino Projects 👨‍💻</h4>
 
-## Description:
+## 💡 Description:
 A collection of Arduino codes used for little projects.
+
+<hr>
+
+## 🖥 Projects:
+
+### 📍 Parking Lot Gate:
+ - 📦 [Repository](https://github.com/lucasbivar/little-arduino-projects/tree/main/Parking%20Lot%20Gate%20Project)
+
+### 📍 Genius(PT-BR)/Simon(EN) Game:
+ - 📦 [Repository](https://github.com/lucasbivar/little-arduino-projects/tree/main/Genius%20Game)
+ 
+### 📍 Danger Zone Identifier:
+ - 📦 [Repository](https://github.com/lucasbivar/little-arduino-projects/tree/main/Danger%20Zone%20Identifier)
+  
+
+<hr>
 
 ## Autor:
 <table>
